@@ -11,7 +11,6 @@ resource "aws_instance" "leandro" {
   tags = {
     Name        = var.name
   }
-
   provisioner "file" {
     source      = "script.sh"
     destination = "/tmp/script.sh"
