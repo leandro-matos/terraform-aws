@@ -1,3 +1,3 @@
 # terraform-aws
 
-example terraform files
+Example terraform files
