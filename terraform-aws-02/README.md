@@ -8,4 +8,4 @@
  
 `terraform.tfvars` - Para ficar de forma permanente, basta criar o arquivo dentro da pasta e informar a Acess_Key e Secret_Key
  
-Acessar através do Browser com o IP da instância do ec2 = `Nginx instalado com sucesso'
+Acessar através do Browser com o IP da instância do ec2 = `Nginx instalado com sucesso`
