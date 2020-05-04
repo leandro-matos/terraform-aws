@@ -1,5 +1,3 @@
-first-steps*
-terraform-test*
 
 
 # Created by https://www.gitignore.io/api/terraform
@@ -11,7 +9,14 @@ terraform-test*
 
 *terraform.tfvars
 
-
+*/terraform.tfvars
+*/terraform.tfstate
+*/terraform.tfstate.backup
+*/.terraform
+first-steps/
+terraform-test/
+*/mykey*
+./
 # .tfstate files
 *.tfstate
 *.tfstate.*
